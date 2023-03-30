@@ -1,5 +1,3 @@
-# chats-on-websockets
-
 ### Run
 `python3 ./main.py`
 
