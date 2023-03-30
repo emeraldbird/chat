@@ -1,19 +1,5 @@
 const root = ReactDOM.createRoot(document.getElementById('react-root'));
 
-/*
-    To do:
-    
-    Messages list:
-        Edit:
-
-        Put it out of App component + change render triggers
-
-    States:
-        Replace some states with context to avoid passing too many props to child components.
-
-    Message sending:
-        send message -> get message -> add to messages
- */ 
 
 const messages = {
     '-1': [],
